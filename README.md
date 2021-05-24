@@ -52,7 +52,7 @@ Hello. I'm [Rex Liu](https://rexliu3.github.io/), a Computer Science Student at 
 
 <br />
 
-📈 My GitHub Stats
+📈 **My GitHub Stats:**
 
 <p align="center">
 <a href="https://github.com/rexliu3">
