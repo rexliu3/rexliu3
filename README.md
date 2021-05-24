@@ -46,8 +46,8 @@ Hello. I'm [Rex Liu](https://rexliu3.github.io/), a Computer Science Student at 
 
 <p align="center">
 <a href="https://github.com/rexliu3">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rexliu3&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rexliu3&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rexliu3&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rexliu3&layout=compact&langs_count=8&theme=react"/>
 </a>
 </p>
