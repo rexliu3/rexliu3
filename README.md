@@ -30,8 +30,11 @@ Hello. I'm [Rex Liu](https://rexliu3.github.io/), a Computer Science Student at 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 📊 **Most Used Languages:**
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rexliu3&layout=compact&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
+
+<br />
 
 📈 My GitHub Stats
 
-<p align="center"> [![Rex's GitHub stats](https://github-readme-stats.vercel.app/api?username=rexliu3&count_private=true&show_icons=true&theme=prussian)](https://github.com/rexliu3)
+[![Rex's GitHub stats](https://github-readme-stats.vercel.app/api?username=rexliu3&count_private=true&show_icons=true&theme=prussian)](https://github.com/rexliu3)
