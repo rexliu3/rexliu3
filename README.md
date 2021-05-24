@@ -70,4 +70,4 @@ Hello. I'm [Rex Liu](https://rexliu3.github.io/), a Computer Science Student at 
 
 <br />
 
-**Credits**: [JayantGoel001](https://github.com/JayantGoel001/)
+**Credits**: [JayantGoel001](https://github.com/JayantGoel001/), [abhisheknaiidu](https://github.com/abhisheknaiidu)
