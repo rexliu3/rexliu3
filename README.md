@@ -1,4 +1,12 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<h1 align="center">
+  𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt; !
+  <a target="_blank">
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
+  </a>
+</h1>
+
+Hello. I'm [Rex Liu](https://rexliu3.github.io/), a Computer Science Student at UC Berkeley. I'm particularly fascinated by the advent of new software technologies coupled with revolutionary hardware systems. I'm excited to learn new things, challenge myself, and use technology to make an impact.
+
 <a href="https://www.linkedin.com/in/rexliu3/">
   <img align="left" alt="Rex's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
@@ -7,10 +15,6 @@
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=rexliu3.rexliu)
-
-<br />
-
-Hello. I'm [Rex Liu](https://rexliu3.github.io/), a Computer Science Student at UC Berkeley. I'm particularly fascinated by the advent of new software technologies coupled with revolutionary hardware systems. I'm excited to learn new things, challenge myself, and use technology to make an impact.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
@@ -57,3 +61,13 @@ Hello. I'm [Rex Liu](https://rexliu3.github.io/), a Computer Science Student at 
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rexliu3&layout=compact&langs_count=8&theme=react"/>
 </a>
 </p>
+
+<p align="center">
+  <a>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rexliu3&theme=react&hide_border=true"/>
+  </a>
+</p>
+
+<br />
+
+**Credits**: [JayantGoel001](https://github.com/JayantGoel001/)
