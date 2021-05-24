@@ -14,7 +14,7 @@ Hello. I'm [Rex Liu](https://rexliu3.github.io/), a Computer Science Student at 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 💬 Ask me about anything, I am happy to help;
+- 🎓 Currently Studying <a href="https://cs.berkeley.edu/">Computer Science at the University of California, Berkeley</a>
 - 📫 How to reach me: rexliu3@berkeley.edu;
 - 📝 [Resume](https://rexliu3.github.io/Resume_RexLiu.pdf)
 
