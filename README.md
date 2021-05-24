@@ -40,6 +40,8 @@ Hello. I'm [Rex Liu](https://rexliu3.github.io/), a Computer Science Student at 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
+<br />
+
 📊 **Most Used Languages:**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rexliu3&layout=compact&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
