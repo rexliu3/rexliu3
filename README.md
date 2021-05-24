@@ -44,4 +44,10 @@ Hello. I'm [Rex Liu](https://rexliu3.github.io/), a Computer Science Student at 
 
 📈 My GitHub Stats
 
-[![Rex's GitHub stats](https://github-readme-stats.vercel.app/api?username=rexliu3&count_private=true&show_icons=true&theme=prussian)](https://github.com/rexliu3) &nbsp;&nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rexliu3&layout=compact&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+<a href="https://github.com/rexliu3">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rexliu3&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rexliu3&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
