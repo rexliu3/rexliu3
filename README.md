@@ -6,4 +6,6 @@
   <img align="left" alt="Rex's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rexliu3&count_private=true&show_icons=true&theme=prussian)](https://github.com/rexliu3)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rexliu3&theme=prussian)](https://rexliu3.github.io)
+![](https://visitor-badge.glitch.me/badge?page_id=rexliu3.rexliu)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rexliu3&count_private=true&show_icons=true&theme=prussian)](https://github.com/rexliu3)
