@@ -16,7 +16,7 @@ Hello. I'm [Rex Liu](https://rexliu3.github.io/), a Computer Science Student at 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=rexliu3.rexliu)
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 - 🎓 Currently Studying <a href="https://cs.berkeley.edu/" target="_blank">Computer Science at the University of California, Berkeley</a>
 - 📫 How to reach me: rexliu3@berkeley.edu
@@ -53,7 +53,6 @@ Hello. I'm [Rex Liu](https://rexliu3.github.io/), a Computer Science Student at 
 <br />
 
 📈 **My GitHub Stats:**
-
 <p align="center">
 <a href="https://github.com/rexliu3">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rexliu3&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
