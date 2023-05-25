@@ -11,7 +11,7 @@ Hello. I'm [Rex Liu](https://rexliu3.github.io/), a Computer Science Student at 
   <img align="left" alt="Rex's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://open.spotify.com/user/rexliu3">
-  <img align="left" alt="Rex's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+  <img align="left" alt="Rex's Spotify" width="22px" src="https://raw.githubusercontent.com/rexliu3/files/main/spotify.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=rexliu3.rexliu)
@@ -21,10 +21,10 @@ Hello. I'm [Rex Liu](https://rexliu3.github.io/), a Computer Science Student at 
 - 🎓 Currently Studying <a href="https://cs.berkeley.edu/" target="_blank">Computer Science at the University of California, Berkeley</a>
 - 📫 How to reach me: rexliu3@berkeley.edu
 - 📝 <a href="https://rexliu3.github.io/Resume_RexLiu.pdf" target="_blank">Resume</a>
-- 🔭 I’m currently working on **Android, Data Science and Web Development**
-- 🌱 I’m currently learning **CI/CD and Algorithms & Data Structures**
-- 🤝 I’m looking to collaborate on **Hackathons or Web Development Projects**
-- 🤔 I’m looking for help with **Internships**
+- 🔭 I’m currently working on **Web Development and Enterprise Software**
+- 🌱 I’m currently learning about **Data**
+- 🤝 I’m looking to collaborate on **Anything!**
+- 🤔 I’m looking for help with **Life...**
 
 <br />
 
