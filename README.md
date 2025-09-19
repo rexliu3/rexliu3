@@ -5,10 +5,10 @@
   </a>
 </h1>
 
-Hello. I'm [Rex Liu](https://rexliu3.github.io/), a Computer Science Student at UC Berkeley. I'm particularly fascinated by the advent of new software technologies coupled with revolutionary hardware systems. I'm excited to learn new things, challenge myself, and use technology to make an impact.
+Hello. I'm [Rex Liu](https://rexliu3.github.io/)!
 
 <a href="https://www.linkedin.com/in/rexliu3/">
-  <img align="left" alt="Rex's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Rex's Linkedin" width="22px" src="linkedin.svg" />
 </a>
 <a href="https://open.spotify.com/user/rexliu3">
   <img align="left" alt="Rex's Spotify" width="22px" src="https://raw.githubusercontent.com/rexliu3/files/main/spotify.svg" />
